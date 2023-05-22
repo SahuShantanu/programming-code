@@ -58,15 +58,26 @@
     margin-left: 200px;
     margin-right: 200px;
 }
+.contact{
+    background-color: lightgreen;
+}
 .contactheading{
     align-items: center;
     justify-content: center;
     text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 .contactlist{
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 .singlecontact{
     display: grid;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
 }
