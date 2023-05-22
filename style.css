@@ -63,3 +63,10 @@
     justify-content: center;
     text-align: center;
 }
+.contactlist{
+    display: flex;
+    justify-content: space-between;
+}
+.singlecontact{
+    display: grid;
+}
