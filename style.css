@@ -30,3 +30,31 @@
     font-weight: 700;
     letter-spacing: 2px;
 }
+.webname{
+    color: aliceblue;
+}
+.nav2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 20px;
+    background-color: rgba(29, 18, 18, 0.564);
+}
+.btn2{
+    margin-right: 8px;
+    margin-left: 8px;
+    text-decoration: none;
+    font-weight: 700;
+    color: azure;
+
+}
+.form1{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.main1{
+    margin-left: 200px;
+    margin-right: 200px;
+}
